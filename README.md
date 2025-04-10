@@ -19,7 +19,7 @@ To install them:
 pip install pandas numpy librosa scikit-learn joblib
 
 ## Dataset
-Download: https://www.kaggle.com/datasets/paultimothymooney/baby-cry
+Download: https://www.kaggle.com/datasets/
 Extract it into a folder named: `baby_cry_dataset/`
 
 or
